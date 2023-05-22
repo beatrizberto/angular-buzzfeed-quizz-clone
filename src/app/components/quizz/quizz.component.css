@@ -41,7 +41,7 @@
 .btn-option {
   background-color: transparent;
   border-radius: 8px;
-  border:1px solid #18ab29;
+  border:1px solid whitesmoke;
   width: 48%;
   margin: 4px;
 
@@ -55,12 +55,13 @@
 }
 
 .btn-option:hover {
-  background-color: chartreuse;
+  background-color:darkorchid
 }
 
 
 .btn-option:active {
-  background-color: chartreuse;
+  background-color: white;
+  color:#644ed2;
   position: relative;
   top: 2px;
 }
